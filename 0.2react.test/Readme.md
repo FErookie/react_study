@@ -1,0 +1,2 @@
+React本身是不包含ajax部分的 我们之前使用jquery内的ajax来代替 但是jquery非常的巨大
+现在我们使用一个小而新的axios 它本身是promise风格的
